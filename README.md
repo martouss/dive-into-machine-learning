@@ -381,7 +381,7 @@ Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-ri
 
 ----
 
-## Alternative ways to "Dive into Machine Learning"
+## 21 Alternative ways to "Dive into Machine Learning"
 
 Here are some other guides to Machine Learning. They can be alternatives or complements to this guide.
 
