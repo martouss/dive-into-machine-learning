@@ -76,7 +76,7 @@ When you work on a real Machine Learning problem, you should focus your efforts 
 
 [Do Simple Things]: http://wiki.c2.com/?DoSimpleThings
 
-## Just about time for a break...
+## 5 Just about time for a break...
 
 Before you take a break, grab some podcasts. 
 
