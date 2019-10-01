@@ -173,7 +173,7 @@ There are also many relevant discussions on Quora, for example: [What is the dif
 
 For help and community in meatspace, seek out meetups. Data Science Weekly's [Big List of Data Science Resources](http://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) may help you.
 
-## Supplement: Learning Pandas well
+## 11 Supplement: Learning Pandas well
 
 You'll want to get more familiar with Pandas.
 
