@@ -215,7 +215,7 @@ I'm not repeating the materials mentioned above, but here are some other Data Sc
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) is one of the best entry level book that you can find on Internet.
 
 
-## Bayesian Statistics and Machine Learning
+## 14 Bayesian Statistics and Machine Learning
 
 From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning):
 
