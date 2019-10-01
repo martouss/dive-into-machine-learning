@@ -163,7 +163,7 @@ Here are some other free online courses I've seen recommended. (Machine Learning
 * [Data Science (Harvard CS109)](http://cs109.github.io/2014/)
 
 
-## Getting Help: Questions, Answers, Chats
+## 10 Getting Help: Questions, Answers, Chats
 
 Start with the support forums and chats related to the course(s) you're taking.
 
