@@ -294,7 +294,7 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
 
 ----
 
-## Collaborate with Domain Experts!
+## 17 Collaborate with Domain Experts!
 
 Machine Learning can be powerful, but it is not magic.
 
