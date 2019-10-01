@@ -35,7 +35,7 @@ Now, follow along with this brief exercise (10 minutes): **[An introduction to m
 
 [![I'll wait.](https://user-images.githubusercontent.com/2420688/29441281-00eff0c4-837f-11e7-9666-d653a1cd2372.jpeg)](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
-## What just happened?
+## 2 What just happened?
 
 You just classified some hand-written digits using [scikit-learn]. Neat huh?
 
