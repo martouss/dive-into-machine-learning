@@ -203,7 +203,7 @@ Some good cheat sheets I've come across. (Please [submit a Pull Request](https:/
 
 # Assorted Opinions and Other Resources
 
-## More Data Science materials
+## 13 More Data Science materials
 
 I'm not repeating the materials mentioned above, but here are some other Data Science resources:
 
