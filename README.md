@@ -97,7 +97,7 @@ OK! Take a break, come back refreshed.
 
 ----
 
-## Play to learn
+## 6 Play to learn
 
 Next, pick **one or two** of these IPython Notebooks and play along.
 
