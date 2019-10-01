@@ -335,7 +335,7 @@ If you want to explore this space more deeply, there is a _lot_ of reading mater
 ----
 
 
-## Deep Learning
+## 18 Deep Learning
 
 In early editions of this guide, there was no specific "Deep Learning" section. I omitted it intentionally. I think it is not effective for us to jump too far ahead. I also know that if you become an expert in traditional Machine Learning, you'll be capable of moving onto advanced subjects like Deep Learning, whether or not I've put that in this guide. We're just trying to get you started here!
 
