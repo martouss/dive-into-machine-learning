@@ -354,7 +354,7 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * [Dive into Deep Learning](https://d2l.ai/) - An interactive book about deep learning
 
 
-## "Big" Data?
+## 19 "Big" Data?
 
 If you are working with data-intensive applications at all, I'll recommend this book:
 
