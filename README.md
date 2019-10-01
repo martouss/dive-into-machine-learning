@@ -141,7 +141,7 @@ Also, you should grab an in-depth textbook to use as a reference. The two best o
 * Busy schedule? Read [Ray Li's review of Prof. Andrew Ng's course](https://rayli.net/blog/data/coursera-machine-learning-review/) for some helpful tips.
 * Review some of the ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn/) videos. This is just about how to study in general. In the course, they [advocate the learn-by-doing approach](https://www.coursera.org/learn/learning-how-to-learn/lecture/8IUbH/interview-with-dr-terrence-sejnowski), as we're doing here. You'll get various other tips that are easy to apply, but go a long way to make your time investment more effective.
 
-## Other courses
+## 9 Other courses
 
 Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)
 
