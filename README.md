@@ -55,7 +55,7 @@ Let's learn a bit more about Machine Learning, and a couple of common ideas and 
 
 It won't take long. It's a beautiful introduction ... Try not to drool too much!
 
-## A Few Useful Things to Know about Machine Learning
+## 4 A Few Useful Things to Know about Machine Learning
 
 OK. Let's dive deeper.
 
