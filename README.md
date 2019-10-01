@@ -124,7 +124,7 @@ _Know another great notebook? Please submit a PR!_
 
 ----
 
-# Immerse yourself
+# 7 Immerse yourself
 
 Now you should be hooked, and hungry to learn more. Pick one of the courses below and start on your way.
 
